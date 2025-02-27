@@ -1,6 +1,6 @@
 # First Activity ETL
 
-This is a Python project that uses libraries for data manipulation, analysis, and database interaction. The primary goal is to extract data from an external source, create a relational database, and manage the data within the database, all from Python.
+This is a Python project that uses libraries for data manipulation, analysis, and SQL Server database interaction. The primary goal is to extract data from an external source, create a relational database, and manage the data within the database, all from Python.
 
 ## Requirements
 
