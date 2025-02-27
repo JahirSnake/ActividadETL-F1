@@ -5,6 +5,7 @@ This is a Python project that uses libraries for data manipulation, analysis, an
 ## Requirements
 
 - Python 3.x
+- SQL Server DB
 - Jupyter
 - openpyxl
 - pandas
@@ -23,8 +24,8 @@ pip install jupyter openpyxl pandas pyodbc
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/https://github.com/JahirSnake/ActividadETL-F1
+cd Actividad_1_ETL
 ```
 
 2. Install the dependencies:
