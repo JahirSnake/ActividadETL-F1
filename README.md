@@ -25,7 +25,7 @@ pip install jupyter openpyxl pandas pyodbc
 
 ```bash
 git clone https://github.com/JahirSnake/ActividadETL-F1
-cd yourproject
+cd ActividadETL-F1
 ```
 
 2. Install the dependencies:
