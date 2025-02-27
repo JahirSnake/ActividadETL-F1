@@ -23,7 +23,7 @@ pip install jupyter openpyxl pandas pyodbc
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/JahirSnake/ActividadETL-F1
 cd yourproject
 ```
 
